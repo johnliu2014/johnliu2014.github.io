@@ -1,2 +1,2 @@
 # johnliu2014.github.io
-This a my personal site.
+This is my personal site.
